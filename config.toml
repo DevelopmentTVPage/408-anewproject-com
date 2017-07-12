@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "anewproject"
+baseURL = "https:\/\/anewproject.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "somethingelse.mx"
+
+[params]
+loginId = "1758904"
+subfolder = ""
